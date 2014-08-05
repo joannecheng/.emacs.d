@@ -15,7 +15,6 @@
 
 (add-to-list 'load-path *auto-init-files-path*)
 (load "00_packages.el")
-(setq default-directory "/Users/joannecheng")
 
 (require 'f)
 (require 'org)
@@ -25,6 +24,7 @@
 
 ;; Joanne's custom stuff
 (linum-mode)
+(setq default-directory "/Users/joannecheng")
 
 (defun plexus-require-tree (path)
   (f--entries path
