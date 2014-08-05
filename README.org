@@ -1,3 +1,5 @@
+(cloned from https://github.com/plexus/.emacs.d)
+
 * Arnemacs / Plexmacs
 
   Emacs as I intended it.
