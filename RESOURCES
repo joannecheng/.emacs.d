@@ -1,0 +1,23 @@
+Avdi's post that inspired me to redo my emacs config
+http://devblog.avdi.org/category/emacs-reboot/
+
+Ready built .emacs for Emacs 24, need to see what's in there
+https://github.com/bbatsov/prelude
+
+Peepcode on Emacs
+https://peepcode.com/products/meet-emacs
+
+A blog about mastering Emacs
+http://www.masteringemacs.org/
+
+Emacs snapshots for Ubuntu (to get version 24)
+https://launchpad.net/~cassou/+archive/emacs
+
+Blog post with some interesting tweaks
+http://viget.com/extend/emacs-24-rails-development-environment-from-scratch-to-productive-in-5-minu
+
+Beginning/end of indent block
+http://txt.arboreus.com/2012/10/25/emacs-move-cursor-to-the-beginning-end-of-the.html
+
+Emacs with Clojure
+http://blog.worldcognition.com/2012/07/setting-up-emacs-for-clojure-programming.html
